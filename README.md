@@ -1,4 +1,4 @@
-### 안녕하세요 👋
+### Hi 👋, I'm Ji-seong Yoon
 
 <!--
 **green-yoon87/green-yoon87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
